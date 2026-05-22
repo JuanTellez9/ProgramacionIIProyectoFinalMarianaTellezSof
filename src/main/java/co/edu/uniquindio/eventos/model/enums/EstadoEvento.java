@@ -1,4 +1,4 @@
-package co.uniquindio.eventos.model.enums;
+package co.edu.uniquindio.eventos.model.enums;
 
 public enum EstadoEvento {
     BORRADOR,
@@ -7,3 +7,4 @@ public enum EstadoEvento {
     CANCELADO,
     FINALIZADO
 }
+

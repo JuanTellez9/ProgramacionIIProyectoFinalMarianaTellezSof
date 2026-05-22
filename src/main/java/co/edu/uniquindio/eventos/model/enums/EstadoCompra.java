@@ -1,4 +1,4 @@
-package co.uniquindio.eventos.model.enums;
+package co.edu.uniquindio.eventos.model.enums;
 
 public enum EstadoCompra {
     CREADA,
@@ -8,3 +8,4 @@ public enum EstadoCompra {
     REEMBOLSADA,
     INCIDENCIA
 }
+

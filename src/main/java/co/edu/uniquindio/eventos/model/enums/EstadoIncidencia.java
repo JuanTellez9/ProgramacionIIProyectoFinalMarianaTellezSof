@@ -1,4 +1,4 @@
-package co.uniquindio.eventos.model.enums;
+package co.edu.uniquindio.eventos.model.enums;
 
 public enum EstadoIncidencia {
     ABIERTA,
@@ -6,3 +6,4 @@ public enum EstadoIncidencia {
     RESUELTA,
     CERRADA
 }
+

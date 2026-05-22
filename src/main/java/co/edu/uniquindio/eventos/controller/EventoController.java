@@ -1,4 +1,4 @@
-package co.uniquindio.eventos.controller;
+package co.edu.uniquindio.eventos.controller;
 
 import co.edu.uniquindio.eventos.Navigator;
 import co.edu.uniquindio.eventos.app.MainApp;
@@ -209,3 +209,4 @@ public class EventoController {
         Navigator.irCartelera();
     }
 }
+

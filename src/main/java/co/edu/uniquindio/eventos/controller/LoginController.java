@@ -1,4 +1,4 @@
-package co.uniquindio.eventos.controller;
+package co.edu.uniquindio.eventos.controller;
 
 import co.edu.uniquindio.eventos.app.MainApp;
 import co.edu.uniquindio.eventos.model.SesionActual;
@@ -36,3 +36,4 @@ public class LoginController {
         MainApp.getInstancia().mostrarRegistro();
     }
 }
+
